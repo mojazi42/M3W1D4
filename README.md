@@ -4,7 +4,7 @@ A simple Flutter mini app that uses **GetX** for reactive state management to to
 
 ## Features
 
-- ✅ Displays a heart icon (`Icons.favorite_border`)
-- ✅ Tap to toggle between empty heart and filled heart (`Icons.favorite`)
-- ✅ Uses **GetX** to update the UI reactively
+-  Displays a heart icon (`Icons.favorite_border`)
+-  Tap to toggle between empty heart and filled heart (`Icons.favorite`)
+-  Uses **GetX** to update the UI reactively
 
